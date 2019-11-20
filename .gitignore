@@ -7,3 +7,4 @@ packages/**/lib
 .env
 src
 yarn.lock
+.gitkeep
